@@ -1,0 +1,2 @@
+source /Users/sycramore/ESP32_BME280_I2C_test/build/gdbinit/symbols
+source /Users/sycramore/ESP32_BME280_I2C_test/build/gdbinit/connect

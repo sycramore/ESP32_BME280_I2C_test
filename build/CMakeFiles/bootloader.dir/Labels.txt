@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/sycramore/ESP32_BME280_I2C_test/build/CMakeFiles/bootloader
+/Users/sycramore/ESP32_BME280_I2C_test/build/CMakeFiles/bootloader.rule
+/Users/sycramore/ESP32_BME280_I2C_test/build/CMakeFiles/bootloader-complete.rule
+/Users/sycramore/ESP32_BME280_I2C_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/sycramore/ESP32_BME280_I2C_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/sycramore/ESP32_BME280_I2C_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/sycramore/ESP32_BME280_I2C_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/sycramore/ESP32_BME280_I2C_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/sycramore/ESP32_BME280_I2C_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/sycramore/ESP32_BME280_I2C_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

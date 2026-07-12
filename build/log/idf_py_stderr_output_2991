@@ -1,0 +1,9 @@
+Command: cmake -G Ninja -B /Users/sycramore/ESP32_BME280_I2C_test/build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/Users/sycramore/.espressif/tools/python/v6.0/venv/bin/python -DESP_PLATFORM=1 -DIDF_TARGET=esp32s3 -DCCACHE_ENABLE=False /Users/sycramore/ESP32_BME280_I2C_test
+Configuration Report               
+ ───────────────────────────────── 
+   Parser Version: 1               
+   Verbosity: default              
+   Defaults policy: sdkconfig      
+   Status: Finished successfully   
+                                   
+ ───────────────────────────────── 
