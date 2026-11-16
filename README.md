@@ -11,3 +11,7 @@ The script is build to check whether the basic I2C connection between the sensor
 
 ## Development notes
 Initial code scaffold was generated with ChatGPT. I2C addresses, WHO_AM_I register values, and chip ID discrepancies (see above) were verified through datasheet research and hands-on testing.
+
+## Bugs
+
+The folder [issues](.issues) contains documentation on issues I encountered during my work with ESP32 boards. They include issues with installation of the ESP-IDF framework on Linux and Mac OS, not recognizing different ESP boards by either operating system and other issues I had. As I did not find much documentation on some of those bugs I hope this collection is helpful for other people facing the same issues I had. Issues are grouped by type of issue. [Connection issues](./issues/connection_issues) refers to cases where ESP-IDF is installed and should work but the board is not recognized. [Framework issues](./issues/framework_issues). [Chip issues](./issues/chip_issues) contains pictures for the case where the script identified the CHIP ID at the "wrong" register 0xE3.

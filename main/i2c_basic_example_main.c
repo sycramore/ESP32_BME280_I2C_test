@@ -4,8 +4,8 @@
 #include "esp_log.h"
 #include "driver/i2c_master.h"
 
-#define I2C_MASTER_SCL_IO      6
-#define I2C_MASTER_SDA_IO      5
+#define I2C_MASTER_SCL_IO      7
+#define I2C_MASTER_SDA_IO      6
 #define I2C_MASTER_FREQ_HZ     100000
 
 #define BME280_ADDR_1          0x76
